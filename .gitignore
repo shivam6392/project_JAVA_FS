@@ -1,0 +1,28 @@
+# Maven build outputs
+**/target/
+**/target
+**/*.class
+
+# Frontend node_modules and builds
+**/node_modules/
+**/dist/
+.eslintcache
+
+# Log files
+*.log
+logs/
+
+# IDE configurations
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
